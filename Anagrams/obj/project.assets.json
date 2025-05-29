@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stili\\source\\repos\\Anagrams\\Anagrams.csproj",
+      "projectUniqueName": "C:\\Users\\Stili\\OneDrive\\Документи\\GitHub\\Miscellaneous\\Anagrams\\Anagrams.csproj",
       "projectName": "Anagrams",
-      "projectPath": "C:\\Users\\Stili\\source\\repos\\Anagrams\\Anagrams.csproj",
+      "projectPath": "C:\\Users\\Stili\\OneDrive\\Документи\\GitHub\\Miscellaneous\\Anagrams\\Anagrams.csproj",
       "packagesPath": "C:\\Users\\Stili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stili\\source\\repos\\Anagrams\\obj\\",
+      "outputPath": "C:\\Users\\Stili\\OneDrive\\Документи\\GitHub\\Miscellaneous\\Anagrams\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stili\\AppData\\Roaming\\NuGet\\NuGet.Config",
