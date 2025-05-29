@@ -1,0 +1,15 @@
+C:\Users\Stili\source\repos\AloneNumbers\bin\Debug\net7.0\AloneNumbers.exe
+C:\Users\Stili\source\repos\AloneNumbers\bin\Debug\net7.0\AloneNumbers.deps.json
+C:\Users\Stili\source\repos\AloneNumbers\bin\Debug\net7.0\AloneNumbers.runtimeconfig.json
+C:\Users\Stili\source\repos\AloneNumbers\bin\Debug\net7.0\AloneNumbers.dll
+C:\Users\Stili\source\repos\AloneNumbers\bin\Debug\net7.0\AloneNumbers.pdb
+C:\Users\Stili\source\repos\AloneNumbers\obj\Debug\net7.0\AloneNumbers.csproj.AssemblyReference.cache
+C:\Users\Stili\source\repos\AloneNumbers\obj\Debug\net7.0\AloneNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stili\source\repos\AloneNumbers\obj\Debug\net7.0\AloneNumbers.AssemblyInfoInputs.cache
+C:\Users\Stili\source\repos\AloneNumbers\obj\Debug\net7.0\AloneNumbers.AssemblyInfo.cs
+C:\Users\Stili\source\repos\AloneNumbers\obj\Debug\net7.0\AloneNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Stili\source\repos\AloneNumbers\obj\Debug\net7.0\AloneNumbers.dll
+C:\Users\Stili\source\repos\AloneNumbers\obj\Debug\net7.0\refint\AloneNumbers.dll
+C:\Users\Stili\source\repos\AloneNumbers\obj\Debug\net7.0\AloneNumbers.pdb
+C:\Users\Stili\source\repos\AloneNumbers\obj\Debug\net7.0\AloneNumbers.genruntimeconfig.cache
+C:\Users\Stili\source\repos\AloneNumbers\obj\Debug\net7.0\ref\AloneNumbers.dll
