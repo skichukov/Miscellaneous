@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stili\\source\\repos\\AloneNumbers\\AloneNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\Stili\\OneDrive\\Документи\\GitHub\\Miscellaneous\\AloneNumbers\\AloneNumbers.csproj",
       "projectName": "AloneNumbers",
-      "projectPath": "C:\\Users\\Stili\\source\\repos\\AloneNumbers\\AloneNumbers.csproj",
+      "projectPath": "C:\\Users\\Stili\\OneDrive\\Документи\\GitHub\\Miscellaneous\\AloneNumbers\\AloneNumbers.csproj",
       "packagesPath": "C:\\Users\\Stili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stili\\source\\repos\\AloneNumbers\\obj\\",
+      "outputPath": "C:\\Users\\Stili\\OneDrive\\Документи\\GitHub\\Miscellaneous\\AloneNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stili\\AppData\\Roaming\\NuGet\\NuGet.Config",

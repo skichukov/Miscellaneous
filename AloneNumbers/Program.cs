@@ -39,7 +39,15 @@
             }
 
             changed += numbers[numbers.Length - 1] + "]";
-            Console.WriteLine(changed);
+
+            Console.Write("[");
+
+            for (int i = 0; i < numbers.Length - 1; i++)
+            {
+                Console.Write(numbers[i] + ", ");
+            }
+
+            Console.WriteLine(numbers[numbers.Length - 1] + "]");
         }
     }
 }
